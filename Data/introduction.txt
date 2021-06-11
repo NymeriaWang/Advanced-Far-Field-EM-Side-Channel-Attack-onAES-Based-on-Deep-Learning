@@ -1,0 +1,8 @@
+
+Please find our data in https://drive.google.com/drive/folders/1gikCpMKPnBBFnhFj4Yfga9Tufeyx4GFZ?usp=sharing 
+
+The folder called training_data contains 200k EM traces captured from 5 Bluetooth-supported nRF52 devices. Each trace is captured by coaxial cable from the profiling device and each trace is the average of 100 traces of the same encryption. 
+
+The folder called testing_data contains 25k EM traces captured from another 5 Bluetooth-supported nRF52 devices. Each trace is captured at 15 meters distance to the victim device. For each device, we further have 1, 10 and 100_avg section which are for the case that a testing trace is the average of 1, 10 and 100 traces of the same encryption. 
+
+For further details, please check our work 'Wang, Ruize, et al. "Advanced Far Field EM Side-Channel Attack on AES." Proceedings of the 7th ACM on Cyber-Physical System Security Workshop. 2021.'
